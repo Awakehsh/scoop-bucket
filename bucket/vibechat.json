@@ -1,12 +1,12 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Terminal chat that looks like an AI coding agent session",
   "homepage": "https://github.com/Awakehsh/vibe-chat",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Awakehsh/vibe-chat/releases/download/v0.2.0/vibechat-windows-x64.exe#/vibechat.exe",
-      "hash": "6add52841f9414e1be7b4feec905dc6773424dc19029177a4f8e05cb056500b8"
+      "url": "https://github.com/Awakehsh/vibe-chat/releases/download/v0.3.0/vibechat-windows-x64.exe#/vibechat.exe",
+      "hash": "9463c425a80aa05575d2a0cb29918ff6bf1ff36f6d394ebed567ca874505b607"
     }
   },
   "bin": "vibechat.exe",
